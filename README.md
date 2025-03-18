@@ -2,7 +2,7 @@
 
 Modules from bactopia used with their version and basic description:
 
-# busco v5.5.0: Assembly completeness based on evolutionarily informed expectations
+### busco v5.5.0: Assembly completeness based on evolutionarily informed expectations
 # checkm v1.2.2: Assess the assembly quality of samples
 # plasmidfinder v2.1.6: Plasmid identification from assemblies
 # quast v5.2.0: A module for assessing the quality of assembled contigs
