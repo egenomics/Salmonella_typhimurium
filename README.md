@@ -1,6 +1,6 @@
 ## Monophasic Salmonella Typhimurium circulating in seagulls from Barcelona, Spain is closely related to strains involved in human infections. 
 
-The exploratory analysis to select and download similar NGS data from other sources is located in the folder:
+The exploratory analysis to select and download similar NGS data from other sources is located in the folder: \n
 **search_strains**
 
 The code for the main analysis using bactopia and the generation of the tree figure is located in the folder:
