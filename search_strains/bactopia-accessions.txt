@@ -1,0 +1,2045 @@
+accession	runtype	species	genome_size
+SRX6607504	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10609411	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899921	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX10155949	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10641607	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365545	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459309	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843278	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10163215	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843403	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9291962	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4744038	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4014505	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297675	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5688436	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190989	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX15451063	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6902102	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10950696	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035336	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1897911	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161919	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7180793	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843611	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5242382	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX16455787	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7739774	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9642784	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155890	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743883	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6480526	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6902068	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459314	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3087622	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10046817	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836672	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447594	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2935345	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7260352	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242418	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459294	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843359	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX838804	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9212331	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4312434	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6069873	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598027	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11122302	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3041806	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354596	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899912	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX1662739	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5458068	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157183	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5171024	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4338974	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3061740	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161761	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156952	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725402	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243321	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843772	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10692428	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156946	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156942	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365543	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3661216	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242905	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743756	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242810	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX22598613	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899925	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX1662765	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14597814	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162060	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5009119	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10563984	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662711	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564380	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6970325	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242068	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161776	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10700469	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9443453	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7847759	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2765951	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3015759	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836661	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843326	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX13297688	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX15844992	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8072089	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX16455790	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161764	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155893	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8023382	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459238	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459306	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2657199	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6970212	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14748847	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6607358	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308737	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843180	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX15844997	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10041682	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308902	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10161922	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7180751	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843690	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256903	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163174	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11158355	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962298	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2243232	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242508	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155954	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459239	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10696008	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10164698	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743958	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9190994	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9206183	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598010	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242314	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9207777	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9757834	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX15627847	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459303	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014488	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2841775	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725565	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4312424	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564388	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598020	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10949341	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843274	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1123524	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459295	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014511	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10100461	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242359	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10010836	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2842492	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725528	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11171133	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242797	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843276	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5242311	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242346	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7923746	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10810841	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8448833	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459283	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10616308	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9537660	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9268268	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6607406	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843589	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX7899961	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX2242071	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014420	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256910	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447559	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5242911	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX16455793	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297670	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9860234	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459313	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014518	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843511	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10156036	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2746346	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155958	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447747	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7862689	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX22055639	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843225	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10156049	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8072141	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2504609	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155959	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743712	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242047	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161773	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10180670	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843506	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9582325	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14598210	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459266	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256881	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243325	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156660	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836654	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447718	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10563833	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962216	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX8035026	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9999200	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1791913	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2372801	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962255	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5982003	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308741	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2995126	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1116436	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836665	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256908	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11548775	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX18169418	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10949352	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014464	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10694864	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2373974	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156024	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9823599	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242888	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843356	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX11354439	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725503	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6902061	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2935355	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1791879	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163196	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155968	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9999193	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242511	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161911	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156938	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161774	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447582	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4312411	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297667	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162066	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6607492	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9895113	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5171011	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459275	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157185	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157193	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843318	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10157192	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743740	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4014503	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725356	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10949325	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10692492	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242048	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743921	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836697	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242890	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX23602161	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7708660	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX17566855	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297668	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157188	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2243163	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354445	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6901933	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155897	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662687	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459221	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256932	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1097031	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242065	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161762	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843806	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10696007	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242393	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156953	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4312410	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962296	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9190996	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899913	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX8035317	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297660	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598013	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2243269	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836666	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2945934	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297666	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10692439	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962253	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4014473	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242790	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242401	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2035474	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459307	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6944223	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8348944	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459265	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242395	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4312423	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8072154	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4338965	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2523252	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459245	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10041664	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962226	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9268277	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256934	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725316	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598004	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354603	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899909	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX1962246	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX19944753	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1438404	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9996956	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014493	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11168444	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9268276	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1116440	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256909	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242498	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843554	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX8914433	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297656	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459323	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962308	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1598007	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843514	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10075012	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155961	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962258	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1308787	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2035497	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843185	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX7614531	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163200	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598036	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459222	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843757	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598008	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5795062	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843721	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365544	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1116426	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2376356	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459228	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843176	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662528	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4014428	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5982042	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725508	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354453	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365554	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242362	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256913	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308820	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843810	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10130654	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10012697	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10046545	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308679	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1012385	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256882	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035035	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4309953	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10130655	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162073	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10595849	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035021	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899953	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX9841480	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14748835	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459311	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14597813	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2746350	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10550629	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014498	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX23495191	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7847751	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297677	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899907	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX2243242	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035197	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7862686	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843266	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+ERX2256925	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2407651	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162057	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242891	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8192004	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308896	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256907	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9207790	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10175773	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242500	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2765235	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5981874	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156662	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5936442	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11160726	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13466464	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX838794	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162072	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014496	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014491	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3041810	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11179707	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256935	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161908	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156669	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3030531	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10609452	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447808	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10155967	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14041280	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014471	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7845897	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2374120	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX15627695	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2243223	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598030	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2523256	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156050	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2995146	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2376038	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182297	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1898022	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156954	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163193	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242902	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7708657	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843796	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6480518	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163177	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598033	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156048	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459300	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10582578	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242064	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2941182	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459260	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8004230	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4312407	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11912902	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743751	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459301	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014470	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10356212	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014479	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308884	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662788	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242370	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962254	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX8004221	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163213	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155950	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3061748	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190997	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2941183	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10164705	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899954	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX7899929	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX10949330	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX23602162	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743890	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899906	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX13883220	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2926150	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10010832	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843117	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX3041827	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157189	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2657670	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10646942	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10194661	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9823581	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243313	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459225	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014458	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6944293	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014442	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9835772	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156661	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308870	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10161913	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459255	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8022334	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2374121	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10563983	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662450	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5242372	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9183262	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014484	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843404	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10155951	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10075031	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9582328	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156043	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4309962	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242058	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157190	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843612	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459254	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843383	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843334	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX8072243	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9706875	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161909	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256875	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10131698	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2558983	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256923	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9206187	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459246	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4892667	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13166956	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161763	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163197	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598041	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156668	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459286	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10041666	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2746244	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9996958	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297665	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743877	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX8191939	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10646931	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5604509	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459243	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308904	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1662694	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836674	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1897940	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899934	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX5242355	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962242	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843416	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5170960	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161759	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564155	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10531824	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1898025	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843692	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2657348	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014461	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10609421	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243243	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899923	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX5242417	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459280	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662701	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6827261	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308900	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843464	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9183202	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161907	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308876	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5242792	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308682	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5242334	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297690	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843702	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564379	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2382669	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9895328	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2674490	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354620	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1598000	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447820	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725492	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308660	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6459232	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8072052	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243308	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2945957	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014452	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155966	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155891	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5982046	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10692549	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899924	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX1308663	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2959464	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256901	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242378	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459298	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014451	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843499	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1598032	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1096975	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10331547	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014506	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9996942	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161768	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7862692	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242306	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447756	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4338969	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2407688	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962453	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843644	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5242925	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8004223	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843198	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10163198	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX19944752	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899920	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX4014497	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9636256	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156951	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8192049	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182246	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4014515	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2544962	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354625	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5982008	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843360	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX13297687	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX16455795	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843286	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10156941	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2243231	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743857	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662683	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161779	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256874	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10692556	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10426021	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014433	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190985	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256929	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014434	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447566	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10012686	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308855	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6480529	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182267	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1012435	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157180	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836690	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161775	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX838830	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4309979	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182262	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX11168434	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843693	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX15844996	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662572	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836671	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155955	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156026	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX19792769	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2372517	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10950688	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10180665	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155964	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10426024	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014489	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2935375	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190986	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035322	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10030561	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163194	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190987	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014481	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459248	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598016	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035400	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10949331	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3035887	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843197	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX3447817	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5242908	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3061728	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242052	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157181	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6983641	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459257	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014519	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9299061	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447712	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10156033	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243255	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162061	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9206181	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242341	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297689	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014501	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308823	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX8035314	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014510	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4338971	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962218	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX8191929	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182229	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5629048	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459240	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2207713	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9835768	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2376039	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163205	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308729	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+ERX3836667	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308786	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6459256	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014514	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242495	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2407655	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10582581	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX20669038	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962402	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2955847	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6607418	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6970864	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5795016	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163212	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242928	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962201	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+ERX3365547	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11158358	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014467	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014468	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256936	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242922	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6480515	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX19944765	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9268274	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10458434	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843316	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1962401	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014429	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843199	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9431978	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242918	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155969	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5458067	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6080483	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2960207	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156042	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459276	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7845883	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256880	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3025860	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843315	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5242514	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014486	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14041287	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459262	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242365	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11122303	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035333	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161770	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9206186	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014462	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163192	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308805	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2182299	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10564392	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9207782	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161778	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843227	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6459237	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9895326	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX838792	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014474	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843171	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843138	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843148	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162064	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10950704	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743757	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX17823014	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3061739	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242917	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256914	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308624	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2145669	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4338970	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6655535	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9183203	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1012256	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10356228	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9636259	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297651	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9177865	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9808298	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11179716	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035330	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836677	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564381	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11122304	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9206185	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9642845	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14482893	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5629054	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014423	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161769	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9505080	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2407686	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243597	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725366	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843172	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242893	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX23495178	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9794952	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459247	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836678	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156666	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10297629	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14480647	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14041285	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843451	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10297635	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256938	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX19595157	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598003	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2035536	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6480522	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157177	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10066136	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2035518	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459318	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459241	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243254	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163214	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243244	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10694874	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7508410	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2995151	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459250	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459302	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242050	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9183207	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843689	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14810462	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836664	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564157	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035308	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598022	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX838849	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7082780	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1597993	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243245	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035313	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2407665	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242343	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2995138	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9841484	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10041681	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365550	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899917	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX9895329	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1123710	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4310000	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX696088	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035399	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242405	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899903	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX10563981	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4309964	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459272	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7208272	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2962885	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10121473	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447601	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10075474	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX17823002	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157184	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447587	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+ERX3836656	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014477	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155956	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7527638	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10694865	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962211	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9806036	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9999195	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10130647	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843650	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9207779	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242067	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014526	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725531	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX15451068	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9131666	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163201	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459310	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365561	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2407659	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243257	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2399490	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899905	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX8035187	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598009	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155962	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182292	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743882	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14743568	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899951	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX10696004	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10950683	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899932	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX1843343	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+ERX2256887	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308740	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10161780	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2372515	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161772	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4892671	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155888	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242353	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297673	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743904	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1598017	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843317	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4743931	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6901978	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10694873	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161777	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10949345	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014430	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX22598604	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5171148	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163204	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014483	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX16455783	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6902050	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8373807	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. SL1344	5027649
+SRX1597997	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014521	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5171009	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297683	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9902067	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182300	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6459226	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5852027	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1597991	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843170	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308734	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1598006	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843133	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4014512	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297674	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243246	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13166957	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2407674	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447704	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10696003	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1597987	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725470	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447707	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6459244	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9212980	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4744021	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10696006	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2544964	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308730	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX8004217	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014509	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242897	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6901891	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564390	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014424	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035034	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10014068	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13883222	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14485219	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10030567	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7845859	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243310	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4312428	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14825396	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10010828	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836663	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4312412	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242916	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2959475	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459251	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX16455779	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10949603	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5982062	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564156	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7739804	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157186	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256939	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10696001	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843607	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459220	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9212350	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1597998	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4744024	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10357923	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX838842	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14485212	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7862698	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725479	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX23495180	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365546	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035027	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243304	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10646926	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155972	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9841838	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156664	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242492	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190718	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297678	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242912	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014522	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX15845000	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459277	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1597999	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725507	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242381	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6963975	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6607407	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962236	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843697	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564394	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190722	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7083076	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447655	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9653933	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2960237	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10635842	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2366492	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3041829	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242895	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6902103	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354600	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10041677	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5170203	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10443346	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155963	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836662	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035312	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX17468802	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13230975	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190979	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899910	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX8072125	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8192066	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459236	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5521284	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156945	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243320	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157187	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8348945	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8648074	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962299	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1598019	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2765952	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447812	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+ERX3365553	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4312425	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459264	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459308	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6827229	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962215	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1962430	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447759	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843337	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6480523	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297653	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10020689	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843200	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX7181174	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256921	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662727	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3061695	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5171015	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243242	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8009827	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163195	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10700463	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10949344	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3025874	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10130653	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899918	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX4014494	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014472	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4309969	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014437	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014482	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843151	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10247155	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564154	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10206526	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743928	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10121457	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182241	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4014453	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242049	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1012406	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9999206	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10602560	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843183	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297676	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8939434	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161918	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899904	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX10046820	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256873	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10041671	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8191989	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843228	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843196	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5445711	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242889	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9206176	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308680	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10156944	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297661	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6944291	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10950703	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3025856	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242907	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6944221	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447619	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10155884	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354442	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5629047	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX17823021	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2478111	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157178	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2374124	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7847754	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2842641	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163211	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662693	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843719	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743872	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6944254	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459223	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035310	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10609470	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6847339	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297681	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156940	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598005	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354595	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10412097	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5982050	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447790	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5604539	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256927	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1022631	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242383	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8191919	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242494	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10531817	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2376057	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035078	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2674448	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4744037	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX7899926	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX1308691	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX8072128	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662764	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11169123	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5981907	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14041281	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10700477	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10950129	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190733	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3061745	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2955646	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156034	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2504611	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8004219	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354379	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190990	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10012691	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014441	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242046	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX22598605	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014449	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10609467	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014457	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6901953	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242043	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182238	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10156031	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1132050	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308915	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162054	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843268	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10949332	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459233	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598014	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182270	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX11354607	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2941137	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459287	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899908	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX4338972	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10696005	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843277	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5242509	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843801	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX7899927	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX6725307	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3087644	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7651618	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161767	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014454	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598031	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161917	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4309995	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5688431	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256922	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5629036	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10217048	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242885	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2657666	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11213120	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10130652	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX18003806	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662791	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256911	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2960209	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9206179	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7862687	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365558	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163206	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014492	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX15627829	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962205	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX11354449	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9206177	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843284	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6459267	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843325	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843203	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10161906	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX12119353	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035205	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX15627697	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10041608	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242377	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242910	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX683558	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2687912	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74	5027649
+SRX4014523	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156038	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10425268	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014525	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242348	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243267	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2542539	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014459	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10643002	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3061696	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242808	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308611	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6607459	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10356231	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX838751	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3041826	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10700475	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297669	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156667	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9786423	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9207789	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843405	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX7181168	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10012683	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243312	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564366	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962243	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4309981	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962245	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4312405	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162063	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256871	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10641680	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2959469	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9212344	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743785	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX18258491	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962313	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843184	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308750	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5171147	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242053	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836684	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10041674	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8072253	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843270	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX14748896	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2955844	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242798	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242898	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308700	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899958	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX754959	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156939	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9537653	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899916	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX10180668	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242051	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10194646	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9212342	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256937	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2399483	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243309	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2545022	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10582451	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156041	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8916786	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256883	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256941	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161916	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2674427	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161765	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5981999	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9207783	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14480643	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX12119349	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6901999	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6963533	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242909	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182272	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10161910	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7628787	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8023446	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5981877	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161920	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564383	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843296	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10041680	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156025	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4338962	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX838739	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354369	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365551	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9268275	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308612	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843502	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843805	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX16455791	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843462	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2242062	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662696	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447588	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843314	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10582573	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190734	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662740	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725431	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7651769	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447814	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10163209	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8022316	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1438408	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962244	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843773	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10161921	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2962893	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242887	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6901939	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10130645	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190727	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243261	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2376025	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836668	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1123554	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899936	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX1843620	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+ERX2256928	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10692650	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365548	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156948	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9206178	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843248	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX14480644	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX4434279	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. monophasic 4,[5],12:i:-	5027649
+SRX14810465	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8072085	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9999196	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10692639	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256930	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598034	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2962886	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10949346	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598012	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308733	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX3061732	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10020539	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5688441	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10633226	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2935376	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256933	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10695998	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2545012	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308828	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2941195	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243253	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459259	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014465	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308815	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6725494	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14041284	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2407687	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9183245	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6902008	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447792	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10297637	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX838757	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10194677	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564378	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2268062	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836696	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843136	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3035907	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459297	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161915	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014517	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX838820	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2407675	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162070	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2955642	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10075473	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8019002	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182302	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2035468	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308659	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10156947	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7862699	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9505075	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9206173	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11179709	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9652964	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9207774	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10950681	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155887	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014421	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9999197	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11122300	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX696196	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9582340	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2243230	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2558997	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7508420	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836669	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459279	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8072254	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10646938	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843793	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843493	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4743969	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10157194	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162068	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1898023	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14041282	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962399	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+ERX3365556	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3025845	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242054	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10950689	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10443362	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297659	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7083089	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243251	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4744012	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6459261	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156029	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10616328	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354436	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7862693	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365555	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843400	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1962203	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10130643	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10950132	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962268	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5242310	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4309977	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3763564	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9846014	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9996955	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4338966	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242933	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4326721	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10616320	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899956	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX2145668	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8023381	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1404198	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308897	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10617973	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10692435	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10180652	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8072197	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2945933	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6902122	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6944262	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9212343	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161903	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156943	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8018886	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459289	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156047	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2374071	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2945951	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836683	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6480520	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9505073	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459227	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9996949	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297686	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035050	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843581	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+ERX2256898	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4338961	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014499	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447758	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2182240	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1597996	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9537658	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161912	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447483	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4014432	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962220	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9806439	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459253	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5431213	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899952	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX4014445	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10046818	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459304	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459274	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035030	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162059	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365557	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035391	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8192062	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447647	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX8035044	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9822647	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743784	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10163207	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9786424	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843500	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX3718328	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843443	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+ERX3365552	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX696032	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014495	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10010825	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9794900	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014447	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308658	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2407660	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155953	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13441773	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598038	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162071	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1597992	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014513	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1597988	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035332	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354609	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014463	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9134518	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2765231	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365560	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155952	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662706	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182261	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10180667	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447679	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10164702	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836679	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8428960	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9268278	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10206517	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14810464	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9844477	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8072252	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156665	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256940	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6902110	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962214	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5242886	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13166959	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9623564	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459252	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX15845001	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242805	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9999189	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3087656	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242896	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014524	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161905	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014425	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899930	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX9806459	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX18258495	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242059	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2407681	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10950686	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242892	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2376387	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190982	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX23495181	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5175498	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11311075	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035198	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11122301	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2243285	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11548752	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962219	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5242894	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297671	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10609477	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9212333	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156950	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10696009	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459235	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9212348	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836655	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9183261	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX814844	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014480	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365559	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725372	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156044	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447653	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843704	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+ERX3836657	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3061742	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725332	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014490	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2374142	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743726	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6459305	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10696000	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10148286	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX12119346	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10075027	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3015731	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308856	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX8035325	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182266	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9212346	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899931	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX4014426	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354613	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9822670	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242502	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10692651	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1597995	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014438	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156936	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14041286	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2546940	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10564387	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3661293	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242056	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662729	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4515807	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4014427	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161760	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014469	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2946058	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836670	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242906	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035036	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242416	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9212335	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7845887	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155960	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161904	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843754	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242923	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662730	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843804	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2182271	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4515780	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10156949	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156030	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4338973	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4338964	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243266	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459281	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9642857	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743801	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843177	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242803	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2407656	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899915	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX10582478	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163199	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2962889	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962210	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1098815	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6827226	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156027	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743869	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX14810463	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242795	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10164694	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2243225	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242315	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155971	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156040	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836673	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242926	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10563852	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598011	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14598211	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11122299	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9206180	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX18500093	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843758	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5243318	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598021	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2376368	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161914	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843605	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10156028	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459284	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014444	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7845894	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899957	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX1012363	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035033	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297657	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836686	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9999190	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843825	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9206170	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243303	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9212337	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014446	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242493	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843606	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10010834	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843501	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10596779	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297655	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242340	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2035500	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7847750	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9212339	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10949334	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9562440	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10950136	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1066158	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161766	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014460	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843281	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5243311	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10596767	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14597724	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3365549	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10172446	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155957	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242903	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598002	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725518	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156035	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014466	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9212347	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9206182	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899919	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+ERX3836689	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7082804	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182264	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10692629	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242901	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035204	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243263	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2955632	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156037	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2035521	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8004226	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10207276	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14480645	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5629052	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242336	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8022387	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256924	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10949347	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899960	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX10131695	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155965	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014448	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035032	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2657349	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242368	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10041529	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX14480646	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1598039	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2422952	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6797187	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1597989	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899914	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX6459263	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6069884	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155895	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242063	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014507	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6902036	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9268267	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9207788	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10616313	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX15451065	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2962892	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242373	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10344421	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459293	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10265211	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242379	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10641605	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX15844995	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10565709	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354385	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014487	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297654	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4286585	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156045	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035315	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2035472	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3061682	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2765950	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035025	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7862688	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2687911	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74	5027649
+SRX8191908	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843238	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX3061697	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2504612	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843795	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX19233347	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10563982	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10692498	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9792726	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6480525	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297672	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3041830	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5688459	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10695999	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11122298	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297680	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5982059	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256879	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10075020	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297652	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2407666	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459249	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725346	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10012694	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3421566	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459230	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6975776	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725374	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2035538	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4309970	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962301	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1598015	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10161771	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13830432	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9999199	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014478	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10458439	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3030493	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843298	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX8035207	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8019011	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1597994	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836688	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4312415	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156937	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2935369	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899935	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX10313096	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155973	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459321	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190998	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10696002	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9823598	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3061735	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2746351	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10180661	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843178	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843345	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10531818	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4312408	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10635863	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10617909	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447513	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1597986	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3035904	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7083098	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157182	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6847349	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242793	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242921	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1052027	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9212340	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308755	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX7862695	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2256912	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243305	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2945952	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190981	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308901	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6459234	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7260351	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6607568	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157179	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297682	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156046	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156039	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843649	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10157191	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10950692	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4310001	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014508	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843363	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9190995	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242057	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182296	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10155970	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9846024	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182265	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2935372	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10949349	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035031	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11354388	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662681	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843651	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447816	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2959467	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10156663	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459224	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297658	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014520	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2374062	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8035023	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014475	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5242403	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2242045	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843237	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4743732	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10162055	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10949342	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX3836692	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10457769	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX15627838	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182301	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX5002613	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX22055642	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10458426	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297679	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2962890	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014476	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6725293	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6607448	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+ERX2765973	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10162062	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843290	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX1843609	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX6971231	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10696010	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX696027	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743930	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9207775	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459296	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10694872	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10426022	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9207786	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6489493	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX12119342	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7083090	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843336	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9999192	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10692542	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4312404	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8072247	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10155892	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2955843	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3447798	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX2145667	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2035534	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10357924	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6607526	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5981876	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962257	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX3447752	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9636261	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843634	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX10020686	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1962318	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX3447545	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX8035401	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4743957	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190993	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3087702	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX3087642	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13970978	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014502	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX11168421	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843515	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX7899955	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX8072249	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843604	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9996954	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX8023397	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459229	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10163184	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7862694	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308732	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX4014422	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459322	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014504	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1662720	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX10356215	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9996952	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2376353	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX16455782	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459270	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014439	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2374669	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014450	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7845863	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX4014500	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1843513	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9190988	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297684	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459231	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX7899928	illumina	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2	5027649
+SRX1308873	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX3061694	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9407203	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459273	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2182276	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9190725	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX5243262	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6459324	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX13297662	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX6480524	ont	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX9331663	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308877	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX1308869	illumina	Salmonella enterica subsp. enterica serovar Typhimurium var. 5-	5027649
+SRX9841840	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649
+SRX2545102	illumina	Salmonella enterica subsp. enterica serovar Typhimurium	5027649

@@ -1,0 +1,9 @@
+sample	runtype	genome_size	species	r1	r2	extra
+SAL1-14_12598	paired-end	0	Salmonella_enterica	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL1-598_S15_L001_R1_001.fastq.gz	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL1-598_S15_L001_R2_001.fastq.gz	
+SAL2-13_13995	paired-end	0	Salmonella_enterica	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL2-995_S16_L001_R1_001.fastq.gz	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL2-995_S16_L001_R2_001.fastq.gz	
+SAL3-14_11275	paired-end	0	Salmonella_enterica	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL3-275_S21_L001_R1_001.fastq.gz	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL3-275_S21_L001_R2_001.fastq.gz	
+SAL4-14_28806	paired-end	0	Salmonella_enterica	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL4-510_S22_L001_R1_001.fastq.gz	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL4-510_S22_L001_R2_001.fastq.gz	
+SAL5-14_28823	paired-end	0	Salmonella_enterica	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL5-311_S17_L001_R1_001.fastq.gz	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL5-311_S17_L001_R2_001.fastq.gz	
+SAL6-16_18784	paired-end	0	Salmonella_enterica	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL6-450_S23_L001_R1_001.fastq.gz	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL6-450_S23_L001_R2_001.fastq.gz	
+SAL7-16_18792	paired-end	0	Salmonella_enterica	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL7-614_S18_L001_R1_001.fastq.gz	/home/jlvillanueva/Documents/SALMONELLA/fastq/20591-SAL7-614_S18_L001_R2_001.fastq.gz	
+REF-GSJ_2017-Sal-008	paired-end	0	Salmonella_enterica	/home/jlvillanueva/Documents/SALMONELLA/fastq/GSJ_2017-Sal-008_R1_001.fastq.gz	/home/jlvillanueva/Documents/SALMONELLA/fastq/GSJ_2017-Sal-008_R2_001.fastq.gz

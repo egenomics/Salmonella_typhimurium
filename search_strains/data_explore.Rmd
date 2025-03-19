@@ -1,0 +1,133 @@
+---
+title: "Salmonella dataset"
+author: "JL Villanueva"
+date: "`r Sys.Date()`"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggplot2)
+library(dplyr)
+library(DT)
+```
+
+## Load Data
+
+```{r}
+metadata <- read.csv("/playground/dataset_salmonella/search/bactopia-metadata.txt", header=TRUE, sep="\t")
+# Load accessions data
+accessions <- read.delim("/playground/dataset_salmonella/search/bactopia-accessions.txt")
+names(accessions)<-c("experiment_accession","runtype","species","genome_size")
+
+# Perform inner join to keep only rows with matching IDs to the search criteria (reads of at least 249bp, minimum coverage of 25x and taxid 90371) 
+# bactopia search --query 90371 -gsize 5027649 -mc 50 -mrl 249
+
+metadata <- inner_join(metadata, accessions, by = "experiment_accession")
+metadata$isolation_source_fixed <- metadata$isolation_source
+
+# Remove columns where all rows have no information and unify criteria for isolation_source
+metadata <- metadata %>%
+  filter_all(any_vars(!is.na(.))) %>%
+  mutate(isolation_source = ifelse(is.na(isolation_source) | isolation_source == "missing" | isolation_source == "", "missing", isolation_source)) %>%
+  mutate(isolation_source_fixed = case_when(grepl("feces" , isolation_source,ignore.case = TRUE) ~ "fecal",
+                                           grepl("stool" , isolation_source,ignore.case = TRUE) ~ "fecal",
+                                           grepl("fecal" , isolation_source,ignore.case = TRUE) ~ "fecal",
+                                           grepl("faecal" , isolation_source,ignore.case = TRUE) ~ "fecal",
+                                          grepl("swine" , isolation_source,ignore.case = TRUE) ~ "pig",
+                                          grepl("pork" , isolation_source,ignore.case = TRUE) ~ "pig",
+                                          grepl("Sus scrofa" , isolation_source,ignore.case = TRUE) ~ "pig",
+                                          grepl("porcine" , isolation_source,ignore.case = TRUE) ~ "pig",
+                                          grepl("chicken" , isolation_source,ignore.case = TRUE) ~ "chicken",
+                                         grepl("pork" , isolation_source,ignore.case = TRUE) ~ "pig",   
+                                          grepl("Hogs" , isolation_source,ignore.case = TRUE) ~ "pig",
+                                          grepl("avian" , isolation_source,ignore.case = TRUE) ~ "avian",
+                                          grepl("missing" , isolation_source,ignore.case = TRUE) ~ "missing",
+                                          grepl("environment" , isolation_source,ignore.case = TRUE) ~ "environmental",
+                                          grepl("bovine" , isolation_source,ignore.case = TRUE) ~ "bovine",
+                                          grepl("beef" , isolation_source,ignore.case = TRUE) ~ "bovine",
+                                          grepl("Bos taurus" , isolation_source,ignore.case = TRUE) ~ "bovine",
+                                          grepl("Dairy Cattle" , isolation_source,ignore.case = TRUE) ~ "bovine",
+                                          grepl("turkey" , isolation_source,ignore.case = TRUE) ~ "turkey",
+                                          grepl("fluid" , isolation_source,ignore.case = TRUE) ~ "biological fluid or and tissue",
+                                         TRUE ~ isolation_source)) %>% 
+                                            group_by(isolation_source_fixed) %>% 
+                                            mutate(count = n()) %>% #Count occurrences in each group and group those that appear less than 5 times as other
+                                            mutate(isolation_source_fixed = ifelse(count <= 5, "other",isolation_source_fixed))
+    
+```
+
+## Data Exploration
+
+```{r}
+# Plot the distribution of isolation_source
+isolation_source_freq <- metadata %>%
+  count(isolation_source_fixed) %>%
+  arrange(desc(n)) %>% 
+  mutate(isolation_source_fixed = ifelse(n <= 5, "other",isolation_source_fixed)) %>%
+  group_by(isolation_source_fixed) %>%
+  summarise(n=sum(n))
+
+ggplot(isolation_source_freq, aes(x = reorder(isolation_source_fixed, -n), y=n)) +
+  geom_bar(stat="identity",fill = "orange") +
+  labs(title = "Distribution of isolation_source", x = "Isolation source", y = "Count") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1, size = 8))
+
+datatable(isolation_source_freq)
+
+# Plot the distribution of countries
+country_freq <- metadata %>%
+  count(country) %>%
+  top_n(50) %>%
+  arrange(desc(n))
+
+ggplot(country_freq, aes(x = reorder(country, -n), y = n)) +
+  geom_bar(stat = "identity", fill = "lightcoral") +
+  labs(title = "Distribution of Countries", x = "Country", y = "Count") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# Plot the distribution of countries
+sciname_freq <- metadata %>%
+  count(scientific_name) %>%
+  arrange(desc(n))
+
+ggplot(sciname_freq, aes(x = reorder(scientific_name, -n), y = n)) +
+  geom_bar(stat = "identity", fill = "lightcoral") +
+  labs(title = "Distribution of scientific names", x = "scientific name", y = "Count") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# Plot the distribution of countries
+platform_freq <- metadata %>%
+  count(instrument_platform) %>%
+  arrange(desc(n))
+
+# Plot the distribution of sequencing platforms
+ggplot(platform_freq, aes(x = reorder(instrument_platform, -n), y=n)) +
+  #geom_bar(stat = "identity",fill = c("orange","darkblue","purple","darkgreen","grey","black")) +
+  geom_bar(stat = "identity", aes(fill = instrument_platform)) +
+  scale_fill_manual(values = c("orange","darkgreen")) +
+  labs(title = "Distribution of Sequencing platforms", x = "Sequencing", y = "Count") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+## Select samples for further processing
+
+```{r}
+#select seed for reproducibility
+set.seed(42)
+
+# Remove "other" and "missing" isolation groups and select up to 100 samples from each group
+subset_phylogenetic_tree <- metadata %>% filter(isolation_source_fixed!="missing") %>% 
+  filter(isolation_source_fixed!="other") %>% 
+  filter(runtype=="illumina") %>% 
+  group_by(isolation_source_fixed) %>% slice_sample(n=100) %>% ungroup()
+
+# Write selected accessions to file
+write.table(subset_phylogenetic_tree %>% select(experiment_accession,runtype,species,genome_size) %>% rename(accession = experiment_accession), file = "/playground/dataset_salmonella/search/selected_accessions.txt", quote = FALSE, sep = "\t", row.names = FALSE)
+
+# Write metadata to file
+write.table(subset_phylogenetic_tree %>% select(experiment_accession,runtype,species,genome_size,isolation_source_fixed) %>% rename(accession = experiment_accession), file = "/playground/dataset_salmonella/bactopia-runs/snippy-20240321-155218/metadata.csv", quote = FALSE, sep = ",", row.names = FALSE)
+```
+
